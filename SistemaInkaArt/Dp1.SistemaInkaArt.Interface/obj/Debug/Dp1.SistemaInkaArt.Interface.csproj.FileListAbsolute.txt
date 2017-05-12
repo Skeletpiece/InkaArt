@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Dp1.SistemaInkaArt.Interface\bin\Debug\Dp1.SistemaInkaArt.Interface.exe.config
+D:\Desarrollo\PUCP\DP1\Sistema Inka Art\VisiblesTeam\SistemaInkaArt\Dp1.SistemaInkaArt.Interface\bin\Debug\Dp1.SistemaInkaArt.Interface.exe.config
